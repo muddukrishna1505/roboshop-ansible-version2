@@ -7,5 +7,5 @@ RABBITMQ_HOST: rabbitmq.bmkrishtech.online
 CATALOGUE_HOST: catalogue.bmkrishtech.online
 USER_HOST: user.bmkrishtech.online
 CART_HOST: cart.bmkrishtech.online
-SHIPPING_HOST: shipping.dbmkrishtech.online
+SHIPPING_HOST: shipping.bmkrishtech.online
 PAYMENT_HOST: payment.bmkrishtech.online
