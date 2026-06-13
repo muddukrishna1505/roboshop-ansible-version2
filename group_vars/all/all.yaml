@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.bmkrishtech.online
+REDIS_HOST: redis.bmkrishtech.online
+MYSQL_HOST: mysql.bmkrishtech.online 
+RABBITMQ_HOST: rabbitmq.bmkrishtech.online 
+CATALOGUE_HOST: catalogue.bmkrishtech.online
+USER_HOST: user.bmkrishtech.online
+CART_HOST: cart.bmkrishtech.online
+SHIPPING_HOST: shipping.dbmkrishtech.online
+PAYMENT_HOST: payment.bmkrishtech.online
